@@ -60,3 +60,8 @@ At the terminal, run:
 ```bash
 xinit
 ```
+
+####South African Mirror List
+```#Server = http://arch.opnmirror.co.za/$repo/os/$arch
+#Server = https://arch.opnmirror.co.za/$repo/os/$arch
+```
