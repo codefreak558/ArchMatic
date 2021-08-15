@@ -40,6 +40,7 @@ PKGS=(
     'wget'                  # Remote content retrieval
     'terminator'            # Terminal emulator
     'vim'                   # Terminal Editor
+    'nano'
     'zenity'                # Display graphical dialog boxes via shell scripts
     'zip'                   # Zip compression program
     'zsh'                   # ZSH shell
@@ -87,6 +88,7 @@ PKGS=(
     'npm'                   # Node package manager
     'python'                # Scripting language
     'yarn'                  # Dependency management (Hyper needs this)
+    'sublime-text-4'
 
     # MEDIA ---------------------------------------------------------------
 
