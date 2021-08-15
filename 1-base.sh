@@ -22,7 +22,7 @@ PKGS=(
         'mesa'                  # Open source version of OpenGL
 
     # --- Setup Desktop
-        'awesome'               # Awesome Desktop
+        'cinnamon-desktop'      # Cinnamon Desktop
         'xfce4-power-manager'   # Power Manager 
         'rofi'                  # Menu System
         'picom'                 # Translucent Windows
